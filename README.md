@@ -6,7 +6,7 @@
 Basic R code, Markdown file, code block, RStudio interface, Data frame, and basic data visualization and analysis. 
 
 ### Introduction to R and Rstudio with simple exercises. 
-[![](http://img.youtube.com/vi/LJIxbmDAhYM/0.jpg =100x100)](http://www.youtube.com/watch?v=LJIxbmDAhYM "BBD_simpleR")
+[![](http://img.youtube.com/vi/LJIxbmDAhYM/0.jpg | width=100)](http://www.youtube.com/watch?v=LJIxbmDAhYM "BBD_simpleR")
 
 <img src="http://img.youtube.com/vi/LJIxbmDAhYM/0.jpg" width="100" height="80" />(http://www.youtube.com/watch?v=LJIxbmDAhYM "BBD_simpleR")
 
